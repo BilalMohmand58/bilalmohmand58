@@ -58,7 +58,14 @@ I enjoy solving real problems, designing systems that scale, and shipping produc
 
 ### 🧠 AI / Media
 <p>
-  <img src="https://skillicons.dev/icons?i=python,openai,ffmpeg" />
+  <!-- Python (Skillicons) -->
+  <img src="https://skillicons.dev/icons?i=python" />
+
+  <!-- OpenAI -->
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+  <!-- FFmpeg -->
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
 </p>
 
 ---
