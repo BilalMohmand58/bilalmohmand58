@@ -56,11 +56,10 @@ I enjoy solving real problems, designing systems that scale, and shipping produc
 
 ### 🧠 AI / Media
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="48" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" height="48" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ffmpeg/ffmpeg-original.svg" height="48" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" height="48" width="48" />
+  <img src="https://img.icons8.com/color/48/ffmpeg.png" />
 </p>
 
 ---
