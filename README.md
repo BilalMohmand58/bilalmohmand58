@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&animation=twinkling&text=Bilal%20Ahmad&fontSize=52&fontColor=e2f4f0&fontAlignY=45&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=17&descColor=6CF2C2&descAlignY=65" />
 
-<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1400&color=8ECFBF&center=true&vCenter=true&width=600&lines=Building+scalable+systems;AI-powered+platforms;Clean+architecture" />
 
