@@ -132,15 +132,19 @@ I enjoy solving real problems, designing systems that scale, and shipping produc
 
 ---
 
-## 📊 GitHub Stats
+## ◈ GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BilalMohmand58&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BilalMohmand58&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=BilalMohmand58&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6CF2C2&icon_color=6CF2C2&text_color=c9d1d9&border_radius=12" height="170" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalMohmand58&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6CF2C2&text_color=c9d1d9&border_radius=12&langs_count=6" height="170" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=BilalMohmand58&theme=tokyonight&hide_border=true&background=0d1117&ring=6CF2C2&fire=6CF2C2&currStreakLabel=6CF2C2&sideLabels=c9d1d9&dates=8b949e&border_radius=12" height="170" />
+
+</div>
 
 ---
 
