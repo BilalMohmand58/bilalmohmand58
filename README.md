@@ -1,101 +1,119 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 <h1 align="center">
-  Hey, I'm Bilal Ahmad 👋
+  Bilal Ahmad
 </h1>
 
-<h3 align="center">
-  Full-Stack Engineer • AI Builder • Systems Thinker
-</h3>
+<p align="center">
+  <b>Software Engineer • Full-Stack • AI Systems</b>
+</p>
 
 <p align="center">
-  <a href="https://blal.dev" target="_blank">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com" target="_blank">💼 LinkedIn</a> •
-  <a href="mailto:bilalahmadkhan1729@gmail.com">📧 Email</a>
+  <a href="https://blal.dev"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/bilal-ahmad-323403203/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:bilalahmadkhan1729@gmail.com"><img src="https://img.shields.io/badge/Email-111?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🚀 About Me
+## 🧠 Profile
 
-I’m a **BS Software Engineering graduate** with a strong focus on building **scalable, AI-powered web systems**.  
-I love turning complex problems into clean, usable products — especially where **AI meets real users**.
+I’m a **Software Engineer** with a strong background in **full-stack development**, **AI-powered systems**, and **scalable web architectures**.  
+I enjoy building **production-grade applications** — from fintech platforms to AI CRMs — with clean code, strong system design, and performance in mind.
 
-- 🎓 **BS Software Engineering (2020–2024)** — SZABIST Islamabad  
-- 🧠 Strong in **MERN / MEAN**, system design, and AI integrations  
-- 🏗️ Building real-world platforms, not just demos  
-- 🌍 Based in **Pakistan**, working globally  
-
----
-
-### 🧠 What I’m Building Right Now
-
-**🧾 Scribe** — *AI-Powered Study Platform*  
-> Upload files → get study guides, flashcards, worksheets, podcasts, and AI chat
-
-**Architecture highlights**
-- ⚡ Next.js (App Router) frontend  
-- 🔗 Node.js + tRPC backend  
-- 🧠 Python (Flask) AI inference service  
-- 🗄️ Supabase (Postgres + Storage)  
-- 🔐 Custom HMAC auth  
-- 📡 Real-time progress via Pusher  
+- 🎓 **BS Software Engineering (2024)** — SZABIST Islamabad  
+- 🧩 Strong in **MERN / MEAN**, SSR/CSR, and API-driven systems  
+- ⚙️ Experience with **fintech, CRM, HRMS, AI automation**  
+- 🌍 Based in Islamabad, working on global products  
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-#### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss)
+### 🖥 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,angular,html,css,tailwind,bootstrap" />
+</p>
 
-#### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
-![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge)
+### ⚙ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,graphql" />
+</p>
 
-#### Databases & Infra
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+### 🗄 Databases & BaaS
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase" />
+</p>
 
-#### AI / Media
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg)
+### ☁ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,aws,vercel,netlify" />
+</p>
 
----
-
-### 💼 Experience
-
-- **Maidaan Group** — Software Engineer  
-- **Agile Vectors** — Full-Stack Developer  
-- **Bredwares Technologies** — MERN Developer  
-
-Worked on:
-- AI CRMs & automation tools  
-- Video processing pipelines (FFmpeg)  
-- Large-scale Next.js apps  
-- Secure auth & real-time systems  
+### 🧠 AI / Media
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white"/>
+</p>
 
 ---
 
-### 🧪 Notable Projects
+## 💼 Experience
 
-- **🧠 Scribe** — AI Study Platform  
-- **📞 RediDial** — AI-Powered CRM & Call Automation  
-- **🏠 SpaceSeeker** — Smart housing & roommate matching (FYP)  
-- **📹 YTMatic** — AI video generation from scripts  
-- **💳 Amanapay** — Fintech application  
-- **👥 HRMS** — Enterprise HR system  
+### **Software Engineer — Sterlings Tech**  
+*May 2025 – Present*  
+- Awarded **Best Performance Award** for exceptional delivery  
+- Built and maintained production-grade full-stack applications  
+- Worked on authentication flows, APIs, dashboards, and performance optimization  
+
+### **Full-Stack Developer — Bredwares Technologies**  
+*Sept 2024 – 2025*  
+- **Employee of the Month** for outstanding development work  
+- Built **Amanapay (Fintech)**, **RediDial (AI CRM)**, and **HRMS** from scratch  
+- Implemented secure APIs, RBAC, and third-party integrations  
+
+### **Web Developer — Maidaan**  
+*July 2023 – 2024*  
+- Developed SEO-optimized, responsive web applications  
+- Improved performance, structure, and user engagement  
 
 ---
 
-### 📈 GitHub Stats
+## 🚀 Key Projects
+
+### 🧠 RediDial — AI-Based CRM  
+- AI call handling, messaging, lead management  
+- Multi-tenant scalable architecture  
+- Automated workflows and integrations  
+
+### 💳 Amanapay — Fintech Platform  
+- Secure payment flows & API integrations  
+- Emphasis on data integrity and security  
+
+### 👥 HRMS  
+- Employee management, attendance, RBAC  
+- Clean backend architecture with secure auth  
+
+### 🎥 YTMatic  
+- Video automation platform  
+- Script → media → rendered video pipeline  
+
+---
+
+## 📚 Core CS Knowledge
+
+- Data Structures & Algorithms  
+- Operating Systems  
+- Database Systems  
+- Computer Networks  
+- Artificial Intelligence  
+- OOP & Clean Architecture  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BilalMohmand58&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BilalMohmand58&show_icons=true&hide_title=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -104,12 +122,12 @@ Worked on:
 
 ---
 
-### 🤝 Let’s Build Something Cool
+## 🤝 Let’s Connect
 
-- 💬 Ask me about **Next.js, AI systems, FFmpeg, or backend architecture**
+- 💬 Ask me about **Next.js, backend systems, AI automation, FFmpeg**
 - 🤝 Open to collaborations, startups, and research-driven projects
-- 🚀 Always building, always learning
+- 🚀 Always building systems that scale
 
 <p align="center">
-  <b>“Ship fast. Think deep. Build things that matter.”</b>
+  <i>“Engineering is not about code — it’s about decisions.”</i>
 </p>
