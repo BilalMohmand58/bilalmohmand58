@@ -1,38 +1,22 @@
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn&text=Bilal%20Ahmad&fontSize=44&fontColor=ffffff&desc=Software%20Engineer%20|%20Full-Stack%20Developer&descSize=18&descAlignY=68"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&animation=twinkling&text=Bilal%20Ahmad&fontSize=52&fontColor=e2f4f0&fontAlignY=45&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=17&descColor=6CF2C2&descAlignY=65" />
 
 <br/>
-<br/>
 
-<p align="center">
-  <i>Building scalable systems • AI-powered platforms • Clean architecture</i>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1400&color=8ECFBF&center=true&vCenter=true&width=600&lines=Building+scalable+systems;AI-powered+platforms;Clean+architecture" />
 
-<br/>
-<br/>
+<br/><br/>
 
-<p align="center">
-  <a href="https://blal.dev" style="text-decoration:none;">
-    <img src="https://img.icons8.com/color/48/domain.png" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/bilal-ahmad-323403203/" style="text-decoration:none;">
-    <img src="https://img.icons8.com/color/48/linkedin.png" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:bilalahmadkhan1729@gmail.com" style="text-decoration:none;">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" />
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/🌐%20blal.dev-1a1a2e?style=for-the-badge&logoColor=6CF2C2)](https://blal.dev)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-ahmad-323403203/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilalahmadkhan1729@gmail.com)
 
 <br/>
 
 </div>
-
----
 
 ## 🧠 About Me
 
