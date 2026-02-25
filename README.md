@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=140&section=header&text=Bilal%20Ahmad&fontSize=44&fontColor=ffffff&desc=Software%20Engineer%20|%20Full-Stack%20Developer&descSize=18&descAlignY=65" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=900&color=6CF2C2&center=true&vCenter=true&width=900&lines=Bilal+Ahmad;Software+Engineer;Full-Stack+Developer;Building+Scalable+Real-World+Systems" />
 
-<br/>
+<br/><br/>
 
 <a href="https://blal.dev">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-111?style=flat-square&logo=googlechrome&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=chrome" height="36" />
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/bilal-ahmad-323403203/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="36" />
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:bilalahmadkhan1729@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="36" />
 </a>
 
 </div>
@@ -22,10 +22,10 @@
 
 ## 🧠 About Me
 
-I’m a **Software Engineer & Full-Stack Developer** focused on building **scalable, production-ready systems**.  
+I’m a **Software Engineer & Full-Stack Developer** focused on building **scalable, production-grade systems**.  
 My work spans **modern web engineering**, **AI-powered platforms**, and **clean backend architectures**.
 
-I enjoy solving real problems, designing systems that scale, and shipping products that are actually used.
+I enjoy solving real problems, designing systems that scale, and shipping products that are actually used — not demos.
 
 - 🎓 **BS Software Engineering (2024)** — SZABIST Islamabad  
 - 🧩 Strong in **MERN / MEAN**, SSR/CSR, API-first design  
@@ -58,9 +58,7 @@ I enjoy solving real problems, designing systems that scale, and shipping produc
 
 ### 🧠 AI / Media
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,openai,ffmpeg" />
 </p>
 
 ---
@@ -101,27 +99,27 @@ I enjoy solving real problems, designing systems that scale, and shipping produc
 ---
 
 ### 🧠 **RediDial — AI-Based CRM Platform**
-- AI call handling & messaging
-- Lead management and automated workflows
-- Multi-tenant scalable architecture
+- AI call handling & messaging  
+- Lead management and automated workflows  
+- Multi-tenant, scalable architecture  
 
 ---
 
 ### 💳 **Amanapay — Fintech Platform**
-- Secure payment features & API integrations
-- Focus on data integrity and security
+- Secure payment features & API integrations  
+- Strong focus on data integrity and security  
 
 ---
 
 ### 👥 **HRMS**
-- Employee management, attendance, RBAC
-- Secure backend architecture
+- Employee management, attendance, RBAC  
+- Secure backend architecture  
 
 ---
 
 ### 🎥 **YTMatic**
-- Automated video generation pipeline
-- Script → media → rendered video using FFmpeg
+- Automated video generation pipeline  
+- Script → media → rendered video using FFmpeg  
 
 ---
 
