@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/blal.dev-1a1a2e?style=for-the-badge&logo=globe&logoColor=6CF2C2&label=🌐)](https://blal.dev)
+[![Portfolio](https://img.shields.io/badge/blal.dev-000000?style=for-the-badge&logo=vercel&logoColor=6CF2C2)](https://blal.dev)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-ahmad-323403203/)
 &nbsp;
