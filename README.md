@@ -1,24 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=140&animation=fadeIn&fontColor=ffffff&fontSize=44&text=Bilal%20Ahmad&desc=Software%20Engineer%20•%20Full-Stack%20Developer&descAlignY=70&descSize=18" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn&text=Bilal%20Ahmad&fontSize=44&fontColor=ffffff&desc=Software%20Engineer%20|%20Full-Stack%20Developer&descSize=18&descAlignY=68"
+/>
+
+<br/>
+<br/>
 
 <p align="center">
-  <sub>Building scalable systems • AI-powered platforms • Clean architecture</sub>
+  <i>Building scalable systems • AI-powered platforms • Clean architecture</i>
 </p>
 
 <br/>
+<br/>
 
-<a href="https://blal.dev">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" height="34"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/bilal-ahmad-323403203/">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" height="34"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:bilalahmadkhan1729@gmail.com">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/new-post.png" height="34"/>
-</a>
+<p align="center">
+  <a href="https://blal.dev" style="text-decoration:none;">
+    <img src="https://img.icons8.com/color/48/domain.png" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/bilal-ahmad-323403203/" style="text-decoration:none;">
+    <img src="https://img.icons8.com/color/48/linkedin.png" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:bilalahmadkhan1729@gmail.com" style="text-decoration:none;">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" />
+  </a>
+</p>
+
+<br/>
 
 </div>
 
