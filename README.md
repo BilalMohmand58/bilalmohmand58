@@ -1,19 +1,23 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=900&color=6CF2C2&center=true&vCenter=true&width=900&lines=Bilal+Ahmad;Software+Engineer;Full-Stack+Developer;Building+Scalable+Real-World+Systems" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=140&animation=fadeIn&fontColor=ffffff&fontSize=44&text=Bilal%20Ahmad&desc=Software%20Engineer%20•%20Full-Stack%20Developer&descAlignY=70&descSize=18" />
 
-<br/><br/>
+<p align="center">
+  <sub>Building scalable systems • AI-powered platforms • Clean architecture</sub>
+</p>
+
+<br/>
 
 <a href="https://blal.dev">
-  <img src="https://skillicons.dev/icons?i=chrome" height="36" />
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" height="34"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/bilal-ahmad-323403203/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="36" />
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" height="34"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:bilalahmadkhan1729@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="36" />
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/new-post.png" height="34"/>
 </a>
 
 </div>
