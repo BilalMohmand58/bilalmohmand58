@@ -66,18 +66,16 @@ I enjoy solving real problems, designing systems that scale, and shipping produc
 ### **Software Engineer — Sterlings Tech**
 *May 2025 – Present*
 - 🏆 **Best Performance Award** for exceptional project delivery  
-- Built and maintained scalable full-stack applications  
-- Designed APIs, authentication flows, dashboards, and performance optimisations  
+- Built **Amanapay (Fintech)**, **RediDial (AI CRM)**, and **HRMS** from scratch  
 
 ### **Full-Stack Developer — Bredwares Technologies**
 *Sept 2024 – 2025*
 - 🏅 **Employee of the Month**  
-- Built **Amanapay (Fintech)**, **RediDial (AI CRM)**, and **HRMS** from scratch  
-- Implemented secure APIs, RBAC, and third-party integrations  
+- Built various application backends, including Tracker Electron Desktop App and YTMatic web app from scratch 
 
 ### **Web Developer — Maidaan**
 *July 2023 – 2024*
-- Developed responsive, SEO-optimized web applications  
+- Developed responsive, SEO-optimised websites  
 - Improved performance, structure, and user engagement  
 
 ---
