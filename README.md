@@ -82,38 +82,35 @@ I enjoy solving real problems, designing systems that scale, and shipping produc
 
 ## 🚀 Featured Projects
 
-### 🧾 **Scribe — AI-Powered Study Platform** *(Flagship Project)*
+###  **Scribe — AI-Powered Study Platform** *(Flagship Project)*
 > Upload documents → generate study guides, flashcards, worksheets, podcasts & AI chat
 
 - Multi-service architecture (Frontend, Backend, AI Inference)
 - AI document analysis & content generation
 - Real-time progress tracking
-- Secure custom authentication
-
-**Tech:** Next.js · Node.js · tRPC · Python · Supabase · Pusher · OpenAI
 
 ---
 
-### 🧠 **RediDial — AI-Based CRM Platform**
+###  **RediDial — AI-Based CRM Platform**
 - AI call handling & messaging  
 - Lead management and automated workflows  
 - Multi-tenant, scalable architecture  
 
 ---
 
-### 💳 **Amanapay — Fintech Platform**
+###  **Amanapay — Fintech Platform**
 - Secure payment features & API integrations  
 - Strong focus on data integrity and security  
 
 ---
 
-### 👥 **HRMS**
+###  **HRMS**
 - Employee management, attendance, RBAC  
 - Secure backend architecture  
 
 ---
 
-### 🎥 **YTMatic**
+###  **YTMatic**
 - Automated video generation pipeline  
 - Script → media → rendered video using FFmpeg  
 
@@ -142,7 +139,6 @@ I enjoy solving real problems, designing systems that scale, and shipping produc
 
 ## 🤝 Let’s Build
 
-- 💬 Ask me about **Next.js, backend systems, AI automation, FFmpeg**
 - 🤝 Open to collaborations, startups, and research projects
 - 🚀 Always building systems that scale
 
