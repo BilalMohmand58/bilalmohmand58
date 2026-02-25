@@ -56,14 +56,11 @@ I enjoy solving real problems, designing systems that scale, and shipping produc
 
 ### 🧠 AI / Media
 <p>
-  <!-- Python (Skillicons) -->
-  <img src="https://skillicons.dev/icons?i=python" />
-
-  <!-- OpenAI -->
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-
-  <!-- FFmpeg -->
-  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="48" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" height="48" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ffmpeg/ffmpeg-original.svg" height="48" />
 </p>
 
 ---
@@ -74,7 +71,7 @@ I enjoy solving real problems, designing systems that scale, and shipping produc
 *May 2025 – Present*
 - 🏆 **Best Performance Award** for exceptional project delivery  
 - Built and maintained scalable full-stack applications  
-- Designed APIs, authentication flows, dashboards, and performance optimizations  
+- Designed APIs, authentication flows, dashboards, and performance optimisations  
 
 ### **Full-Stack Developer — Bredwares Technologies**
 *Sept 2024 – 2025*
