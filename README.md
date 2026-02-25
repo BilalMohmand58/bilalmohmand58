@@ -136,13 +136,7 @@ I enjoy solving real problems, designing systems that scale, and shipping produc
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BilalMohmand58&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6CF2C2&icon_color=6CF2C2&text_color=c9d1d9&border_radius=12&cache_seconds=1800" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalMohmand58&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6CF2C2&text_color=c9d1d9&border_radius=12&langs_count=6&cache_seconds=1800" height="170" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=BilalMohmand58&theme=tokyonight&hide_border=true&background=0d1117&ring=6CF2C2&fire=6CF2C2&currStreakLabel=6CF2C2&sideLabels=c9d1d9&dates=8b949e&border_radius=12" height="170" />
+<img src="https://streak-stats.demolab.com?user=BilalMohmand58&theme=tokyonight&hide_border=true&background=0d1117&ring=6CF2C2&fire=6CF2C2&currStreakLabel=6CF2C2&sideLabels=c9d1d9&dates=8b949e&border_radius=12" />
 
 </div>
 
