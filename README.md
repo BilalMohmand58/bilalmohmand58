@@ -36,7 +36,7 @@ I enjoy solving real problems, designing systems that scale, and shipping produc
 
 ### ⚙ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,postman,swagger" />
 </p>
 
 ### 🗄 Databases & BaaS
