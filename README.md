@@ -31,12 +31,12 @@ I enjoy solving real problems, designing systems that scale, and shipping produc
 
 ### 🖥 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,angular,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,angular,html,css,tailwind,bootstrap,antdesign,shadcn" />
 </p>
 
 ### ⚙ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,postman,swagger" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,postman" />
 </p>
 
 ### 🗄 Databases & BaaS
