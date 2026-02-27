@@ -4,7 +4,8 @@
 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1400&color=8ECFBF&center=true&vCenter=true&width=600&lines=Building+scalable+systems;AI-powered+platforms;Clean+architecture" />
-<br/>
+
+
 [![Portfolio](https://img.shields.io/badge/blal.dev-000000?style=for-the-badge&logo=vercel&logoColor=6CF2C2)](https://blal.dev) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-ahmad-323403203/) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilalahmadkhan1729@gmail.com)
 
 </div>
